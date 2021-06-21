@@ -1,5 +1,5 @@
 # tic-tac-toe-project
-A project that was part of the Python Programming Essentials Course. I've included the brief below and my solution to the code is in the main branch.
+A project that was part of the Python Programming Essentials Course. I've included the brief below and my solution code is included in the main branch.
 
 Here is the brief for the challenge:
 
